@@ -1,3 +1,5 @@
+ste this 👇
+
 # 🌦️ Weather App
 
 A simple and modern Weather Forecast Web App built using HTML, CSS, and JavaScript with OpenWeather API.
@@ -27,165 +29,13 @@ A simple and modern Weather Forecast Web App built using HTML, CSS, and JavaScri
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/686b118d-8969-4132-98ac-071c2b258320" />
+(Add screenshot of your app here)
 
+---
 
 ## 🔑 API Used
 
 This project uses the OpenWeather API:
 https://openweathermap.org/api
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Clone this repository:
+---
