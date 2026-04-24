@@ -2,10 +2,6 @@
 
 # 🌦️ Weather App
 
-A simple and modern Weather Forecast Web App built using HTML, CSS, and JavaScript with OpenWeather API.
-
----
-
 ## 🚀 Features
 
 - Search weather by city name  
